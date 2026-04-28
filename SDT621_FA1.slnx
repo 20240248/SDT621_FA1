@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="Question1/SectA_Question1.csproj" />
-  <Project Path="Question2/SectA_Question2.csproj" />
-  <Project Path="Question3/SectA_Question3.csproj" />
+  <Project Path="SectA_Question1/SectA_Question1.csproj" />
+  <Project Path="SectA_Question2/SectA_Question2.csproj" />
+  <Project Path="SectA_Question3/SectA_Question3.csproj" />
+  <Project Path="SectB_Question1/SectB_Question1.csproj" Id="7f12040d-0bb1-4212-a9cc-bac2dff3529d" />
 </Solution>
