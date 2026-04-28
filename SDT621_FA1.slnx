@@ -3,4 +3,5 @@
   <Project Path="SectA_Question2/SectA_Question2.csproj" />
   <Project Path="SectA_Question3/SectA_Question3.csproj" />
   <Project Path="SectB_Question1/SectB_Question1.csproj" Id="7f12040d-0bb1-4212-a9cc-bac2dff3529d" />
+  <Project Path="SectB_Question2/HomeAffairsDigitalIdentityProcessor.csproj" Id="1c98222e-70eb-48aa-a372-6f01fad0cc4d" />
 </Solution>
